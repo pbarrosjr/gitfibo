@@ -8,5 +8,5 @@ def fib(n):
         a, b = b, a+b
 
 
-for i in fib(10):
+for i in fib(15):
     print i
